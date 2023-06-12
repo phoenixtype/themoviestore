@@ -1,7 +1,8 @@
-package dev.farhan.movieist.movies.controller;
+package dev.phoenixtype.moviestore.movies.controller;
 
-import dev.farhan.movieist.movies.model.Movie;
-import dev.farhan.movieist.movies.service.MovieService;
+
+import dev.phoenixtype.moviestore.movies.model.Movie;
+import dev.phoenixtype.moviestore.movies.service.MovieService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

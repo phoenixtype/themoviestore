@@ -1,9 +1,8 @@
-package dev.farhan.movieist.movies.controller;
+package dev.phoenixtype.moviestore.movies.controller;
 
-import dev.farhan.movieist.movies.model.Review;
-import dev.farhan.movieist.movies.service.ReviewService;
+import dev.phoenixtype.moviestore.movies.model.Review;
+import dev.phoenixtype.moviestore.movies.service.ReviewService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,4 +1,4 @@
-package dev.farhan.movieist.movies.model;
+package dev.phoenixtype.moviestore.movies.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

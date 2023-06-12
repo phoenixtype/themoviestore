@@ -1,7 +1,8 @@
-package dev.farhan.movieist.movies.service;
+package dev.phoenixtype.moviestore.movies.service;
 
-import dev.farhan.movieist.movies.model.Movie;
-import dev.farhan.movieist.movies.repository.MovieRepository;
+
+import dev.phoenixtype.moviestore.movies.model.Movie;
+import dev.phoenixtype.moviestore.movies.repository.MovieRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

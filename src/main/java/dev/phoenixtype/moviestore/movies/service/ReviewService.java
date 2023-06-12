@@ -1,8 +1,8 @@
-package dev.farhan.movieist.movies.service;
+package dev.phoenixtype.moviestore.movies.service;
 
-import dev.farhan.movieist.movies.model.Movie;
-import dev.farhan.movieist.movies.model.Review;
-import dev.farhan.movieist.movies.repository.ReviewRepository;
+import dev.phoenixtype.moviestore.movies.model.Movie;
+import dev.phoenixtype.moviestore.movies.model.Review;
+import dev.phoenixtype.moviestore.movies.repository.ReviewRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
